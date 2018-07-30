@@ -13,4 +13,4 @@ Do you have what it takes to beat Fuchsia Gym and win the Soul Badge?
 ### Contributors 
 * [sharnajh](https://github.com/sharnajh)
 * [shahidsarker](https://github.com/shahidsarker)
-* [marii](https://github.com/mary-tkachenko)
+* [mary-tkachenko](https://github.com/mary-tkachenko)
