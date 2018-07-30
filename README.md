@@ -6,6 +6,6 @@ Collaborative project using the The RESTful Pokemon API to display Pokemon data
 * Boostrap
 * AXIOS & API
 ### Contributors 
-* [sharnajh] (https://github.com/sharnajh)
+* [sharnajh](https://github.com/sharnajh)
 * [shahidsarker](https://github.com/shahidsarker)
 * [marii](https://github.com/mary-tkachenko)
