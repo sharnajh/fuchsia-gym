@@ -11,6 +11,7 @@ Do you have what it takes to beat Fuchsia Gym and win the Soul Badge?
 * AXIOS & API
   * The RESTful Pokemon API
 * SASS
+* Koala
 ### Contributors 
 * [sharnajh](https://github.com/sharnajh)
 * [shahidsarker](https://github.com/shahidsarker)
